@@ -1,0 +1,6 @@
+C:\Users\Recep\documents\visual studio 2015\Projects\RSezer-ETicaret\RSezer-ETicaret\bin\RSezer-ETicaret.dll.config
+C:\Users\Recep\documents\visual studio 2015\Projects\RSezer-ETicaret\RSezer-ETicaret\bin\RSezer-ETicaret.dll
+C:\Users\Recep\documents\visual studio 2015\Projects\RSezer-ETicaret\RSezer-ETicaret\bin\RSezer-ETicaret.pdb
+C:\Users\Recep\documents\visual studio 2015\Projects\RSezer-ETicaret\RSezer-ETicaret\obj\Release\RSezer-ETicaret.csprojResolveAssemblyReference.cache
+C:\Users\Recep\documents\visual studio 2015\Projects\RSezer-ETicaret\RSezer-ETicaret\obj\Release\RSezer-ETicaret.dll
+C:\Users\Recep\documents\visual studio 2015\Projects\RSezer-ETicaret\RSezer-ETicaret\obj\Release\RSezer-ETicaret.pdb

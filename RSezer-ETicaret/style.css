@@ -1,0 +1,158 @@
+﻿body {
+    background-color: #ffffff;
+    font-family: 'Trebuchet MS',Arial;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #555;
+}
+
+    a:hover {
+        color: #999;
+    }
+
+#wrapper {
+    width: 980px;
+    height: 1100px;
+    margin: 0 auto;
+}
+
+header {
+    float: left;
+    width: 980px;
+    height: 45px;
+    background-color:#f2c35b;
+    }
+
+    header .logo {
+        float: left;
+        width: 100px;
+        height: 45px;
+        text-align: center;
+        line-height: 45px;
+    }
+
+    header nav {
+        float: left;
+        width: 870px;;
+        height: 45px;
+        line-height: 45px;
+    }
+
+        header nav ul {
+            list-style: none;
+        }
+
+            header nav ul li {
+                float: left;
+                margin-left: 15px;
+            }
+
+.middle {
+    float: left;
+    width: 980px;
+    height: 360px;
+}
+
+    .middle .banner {
+        float: left;
+        margin-top: 45px;
+        width: 620px;
+        height: 360px;
+        margin-top: 0;
+
+    }
+
+    .middle .login {
+        float: left;
+        margin-top: 45px;
+        width: 360px;
+        height: 360px;
+        margin-top: 0;
+    
+        text-align:center;
+        background-color:#00ada1;
+    }
+
+.listing {
+    float: left;
+    width: 100%;
+    height: 585px;
+    margin-top: 45px;
+    background-color:#dcdcdc;
+    }
+.listing .categories{
+    float:left;
+    width:100%;
+    height:10%;
+}
+    .listing .categories .LBcategories {
+        float:left;
+        margin-left:1%;
+    }
+    .listing .categories .DDLcat{
+        float:left;
+        margin-left:1%;
+    }
+.listing .products{
+    float:left;
+    width:100%;
+    height:90%;
+}
+
+footer {
+    float: left;
+    width: 100%;
+    height: 45px;
+    margin-top: 45px;
+    text-align: center;
+    line-height: 45px;
+    background-color:#dcdcdc;
+}
+
+.cart{
+    float:left;
+    width:100%;
+    height:600px;
+    background-color:#dcdcdc;
+
+}
+
+.orders{
+    float:left;
+    width:100%;
+    height:600px;
+    background-color:#dcdcdc;
+
+}
+.productdetail{
+    float:left;
+    width:100%;
+    height:600px;
+    background-color:#dcdcdc;
+}
+    .productdetail .tableholder {
+        float:left;
+        width:100%;
+        height:500px;
+        align-items:center;
+    }
+        .productdetail .tableholder ul {
+            list-style:none;
+        }
+            .productdetail .tableholder ul li {
+                margin-top:45px;
+                margin-left:1%;
+            }
+    .productdetail .buttonholder {
+        float:left;
+        width:100%;
+        height:100px;
+    }

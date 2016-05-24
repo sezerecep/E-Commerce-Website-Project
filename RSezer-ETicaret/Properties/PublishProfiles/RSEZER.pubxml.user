@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Recep\Desktop\Proje-Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/databaseeticaret.mdf">
+      <publishTime>05/12/2016 17:36:45</publishTime>
+    </File>
+    <File Include="App_Data/databaseeticaret_log.ldf">
+      <publishTime>05/12/2016 17:36:45</publishTime>
+    </File>
+    <File Include="banner.png">
+      <publishTime>05/12/2016 00:26:08</publishTime>
+    </File>
+    <File Include="bin/RSezer-ETicaret.dll">
+      <publishTime>05/13/2016 14:17:52</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>05/12/2016 01:44:03</publishTime>
+    </File>
+    <File Include="del.png">
+      <publishTime>05/10/2016 22:23:09</publishTime>
+    </File>
+    <File Include="det.png">
+      <publishTime>05/10/2016 20:07:53</publishTime>
+    </File>
+    <File Include="logo.jpg">
+      <publishTime>05/12/2016 01:09:53</publishTime>
+    </File>
+    <File Include="sepetim.aspx">
+      <publishTime>05/12/2016 01:12:01</publishTime>
+    </File>
+    <File Include="siparisdetay.aspx">
+      <publishTime>05/12/2016 01:11:57</publishTime>
+    </File>
+    <File Include="siparislerim.aspx">
+      <publishTime>05/12/2016 01:11:11</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>05/12/2016 00:58:42</publishTime>
+    </File>
+    <File Include="urundetay.aspx">
+      <publishTime>05/12/2016 01:28:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/13/2016 14:17:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
